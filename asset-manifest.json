@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-App-Forms/static/css/main.3c4e2852.chunk.css",
+    "main.js": "/React-App-Forms/static/js/main.ad77f904.chunk.js",
+    "main.js.map": "/React-App-Forms/static/js/main.ad77f904.chunk.js.map",
+    "runtime-main.js": "/React-App-Forms/static/js/runtime-main.eb3b6287.js",
+    "runtime-main.js.map": "/React-App-Forms/static/js/runtime-main.eb3b6287.js.map",
+    "static/js/2.5044d8c4.chunk.js": "/React-App-Forms/static/js/2.5044d8c4.chunk.js",
+    "static/js/2.5044d8c4.chunk.js.map": "/React-App-Forms/static/js/2.5044d8c4.chunk.js.map",
+    "index.html": "/React-App-Forms/index.html",
+    "precache-manifest.284afd4d31c431d6aed725680501ec92.js": "/React-App-Forms/precache-manifest.284afd4d31c431d6aed725680501ec92.js",
+    "service-worker.js": "/React-App-Forms/service-worker.js",
+    "static/css/main.3c4e2852.chunk.css.map": "/React-App-Forms/static/css/main.3c4e2852.chunk.css.map",
+    "static/js/2.5044d8c4.chunk.js.LICENSE.txt": "/React-App-Forms/static/js/2.5044d8c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb3b6287.js",
+    "static/js/2.5044d8c4.chunk.js",
+    "static/css/main.3c4e2852.chunk.css",
+    "static/js/main.ad77f904.chunk.js"
+  ]
+}
